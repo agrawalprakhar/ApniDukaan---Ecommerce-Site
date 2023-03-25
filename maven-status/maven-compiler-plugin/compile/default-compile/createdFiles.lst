@@ -1,0 +1,15 @@
+com\learn\mycart\entities\User.class
+com\learn\mycart\entities\Product.class
+com\learn\mycart\servlets\HtttpSession.class
+com\learn\mycart\dao\CategoryDao.class
+com\learn\mycart\servlets\LoginServlet.class
+com\learn\mycart\servlets\ProductOperationServlet.class
+com\learn\mycart\dao\ProductDao.class
+com\mycompany\mycart\resources\JakartaEE8Resource.class
+com\mycompany\mycart\JakartaRestConfiguration.class
+com\learn\mycart\entities\Category.class
+com\learn\mycart\servlets\LogOutServlet.class
+com\learn\mycart\servlets\RegisterServlet.class
+com\learn\mycart\helper\Helper.class
+com\learn\mycart\dao\UserDao.class
+com\learn\mycart\helper\FactoryProvider.class
